@@ -1,0 +1,452 @@
+{
+    "1": {
+        "text": {
+            "en": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+            "ru": "Гений — это один процент вдохновения и девяносто девять процентов пота."
+        },
+        "author": {
+            "en": "Thomas Edison",
+            "ru": "Томас Эдисон"
+        }
+    },
+    "2": {
+        "text": {
+            "en": "You can observe a lot just by watching.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Yogi Berra",
+            "ru": ""
+        }
+    },
+    "3": {
+        "text": {
+            "en": "A house divided against itself cannot stand.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Abraham Lincoln",
+            "ru": ""
+        }
+    },
+    "4": {
+        "text": {
+            "en": "Difficulties increase the nearer we get to the goal.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Johann Wolfgang von Goethe",
+            "ru": ""
+        }
+    },
+    "5": {
+        "text": {
+            "en": "Fate is in your hands and no one elses",
+            "ru": ""
+        },
+        "author": {
+            "en": "Byron Pulsifer",
+            "ru": ""
+        }
+    },
+    "6": {
+        "text": {
+            "en": "Be the chief but never the lord.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Lao Tzu",
+            "ru": ""
+        }
+    },
+    "7": {
+        "text": {
+            "en": "Nothing happens unless first we dream.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Carl Sandburg",
+            "ru": ""
+        }
+    },
+    "8": {
+        "text": {
+            "en": "Well begun is half done.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Aristotle",
+            "ru": ""
+        }
+    },
+    "9": {
+        "text": {
+            "en": "Life is a learning experience, only if you learn.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Yogi Berra",
+            "ru": ""
+        }
+    },
+    "10": {
+        "text": {
+            "en": "Self-complacency is fatal to progress.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Margaret Sangster",
+            "ru": ""
+        }
+    },
+    "11": {
+        "text": {
+            "en": "Peace comes from within. Do not seek it without.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Buddha",
+            "ru": ""
+        }
+    },
+    "12": {
+        "text": {
+            "en": "What you give is what you get.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Byron Pulsifer",
+            "ru": ""
+        }
+    },
+    "13": {
+        "text": {
+            "en": "We can only learn to love by loving.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Iris Murdoch",
+            "ru": ""
+        }
+    },
+    "14": {
+        "text": {
+            "en": "Life is change. Growth is optional. Choose wisely.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Karen Clark",
+            "ru": ""
+        }
+    },
+    "15": {
+        "text": {
+            "en": "You'll see it when you believe it.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Wayne Dyer",
+            "ru": ""
+        }
+    },
+    "16": {
+        "text": {
+            "en": "To lead people walk behind them.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Lao Tzu",
+            "ru": ""
+        }
+    },
+    "17": {
+        "text": {
+            "en": "Having nothing, nothing can he lose.",
+            "ru": ""
+        },
+        "author": {
+            "en": "William Shakespeare",
+            "ru": ""
+        }
+    },
+    "18": {
+        "text": {
+            "en": "Trouble is only opportunity in work clothes.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Henry J. Kaiser",
+            "ru": ""
+        }
+    },
+    "19": {
+        "text": {
+            "en": "A rolling stone gathers no moss.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Publilius Syrus",
+            "ru": ""
+        }
+    },
+    "20": {
+        "text": {
+            "en": "Ideas are the beginning points of all fortunes.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Napoleon Hill",
+            "ru": ""
+        }
+    },
+    "21": {
+        "text": {
+            "en": "Everything in life is luck.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Donald Trump",
+            "ru": ""
+        }
+    },
+    "22": {
+        "text": {
+            "en": "Doing nothing is better than being busy doing nothing.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Lao Tzu",
+            "ru": ""
+        }
+    },
+    "23": {
+        "text": {
+            "en": "Trust yourself. You know more than you think you do.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Benjamin Spock",
+            "ru": ""
+        }
+    },
+    "24": {
+        "text": {
+            "en": "Study the past, if you would divine the future.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Confucius",
+            "ru": ""
+        }
+    },
+    "25": {
+        "text": {
+            "en": "From error to error one discovers the entire truth.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Sigmund Freud",
+            "ru": ""
+        }
+    },
+    "26": {
+        "text": {
+            "en": "Well done is better than well said.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Benjamin Franklin",
+            "ru": ""
+        }
+    },
+    "27": {
+        "text": {
+            "en": "Bite off more than you can chew, then chew it.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Ella Williams",
+            "ru": ""
+        }
+    },
+    "28": {
+        "text": {
+            "en": "Work out your own salvation. Do not depend on others.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Buddha",
+            "ru": ""
+        }
+    },
+    "29": {
+        "text": {
+            "en": "One today is worth two tomorrows.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Benjamin Franklin",
+            "ru": ""
+        }
+    },
+    "30": {
+        "text": {
+            "en": "Once you choose hope, anythings possible.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Christopher Reeve",
+            "ru": ""
+        }
+    },
+    "31": {
+        "text": {
+            "en": "God always takes the simplest way.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Albert Einstein",
+            "ru": ""
+        }
+    },
+    "32": {
+        "text": {
+            "en": "One fails forward toward success.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Charles Kettering",
+            "ru": ""
+        }
+    },
+    "33": {
+        "text": {
+            "en": "Learning is a treasure that will follow its owner everywhere",
+            "ru": ""
+        },
+        "author": {
+            "en": "Chinese proverb",
+            "ru": ""
+        }
+    },
+    "34": {
+        "text": {
+            "en": "Be as you wish to seem.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Socrates",
+            "ru": ""
+        }
+    },
+    "35": {
+        "text": {
+            "en": "The world is always in movement.",
+            "ru": ""
+        },
+        "author": {
+            "en": "V. Naipaul",
+            "ru": ""
+        }
+    },
+    "36": {
+        "text": {
+            "en": "Never mistake activity for achievement.",
+            "ru": ""
+        },
+        "author": {
+            "en": "John Wooden",
+            "ru": ""
+        }
+    },
+    "37": {
+        "text": {
+            "en": "What worries you masters you.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Haddon Robinson",
+            "ru": ""
+        }
+    },
+    "38": {
+        "text": {
+            "en": "One faces the future with ones past.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Pearl Buck",
+            "ru": ""
+        }
+    },
+    "39": {
+        "text": {
+            "en": "Goals are the fuel in the furnace of achievement.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Brian Tracy",
+            "ru": ""
+        }
+    },
+    "40": {
+        "text": {
+            "en": "Who sows virtue reaps honour.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Leonardo da Vinci",
+            "ru": ""
+        }
+    },
+    "41": {
+        "text": {
+            "en": "Be kind whenever possible. It is always possible.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Dalai Lama",
+            "ru": ""
+        }
+    },
+    "42": {
+        "text": {
+            "en": "Talk doesn't cook rice.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Chinese proverb",
+            "ru": ""
+        }
+    },
+    "43": {
+        "text": {
+            "en": "He is able who thinks he is able.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Buddha",
+            "ru": ""
+        }
+    },
+    "44": {
+        "text": {
+            "en": "A goal without a plan is just a wish.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Larry Elder",
+            "ru": ""
+        }
+    },
+    "45": {
+        "text": {
+            "en": "To succeed, we must first believe that we can.",
+            "ru": ""
+        },
+        "author": {
+            "en": "Michael Korda",
+            "ru": ""
+        }
+    }
+}
